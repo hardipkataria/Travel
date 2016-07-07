@@ -1,0 +1,57 @@
+/* CSS Document */
+
+#productImages img {
+	margin:3px;
+	}
+#productImages  {
+	float:right;
+	}
+
+	
+#buy {
+	margin-top:15px;
+	float:right;
+	padding:5px;
+	color:black;
+    
+	padding:10px;
+	border-radius:5px;
+  	background: -webkit-linear-gradient(top, #2E9AFE, #58ACFA);
+  	background: -moz-linear-gradient(top, #2E9AFE, #58ACFA);
+	text-align:center;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27);
+
+
+
+	}
+#buy:hover {
+	float:right;
+	color:black;
+	border-radius:7px;
+        
+	text-align:center;
+	padding:10px;
+  	background: -webkit-linear-gradient(top, #2ECCFA,#58ACFA);
+  	background: -moz-linear-gradient(top, #2ECCFA,#58ACFA);
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+	}
+	
+#descripTable, tr,td {
+	padding:6px;
+	margin:2px 0px;
+}
+	
+#descripTable  {
+	
+}
+	
+#descripTable {
+	
+}
+
+#descripTable tr:nth-child(odd){
+	background:#A9D0F5;
+}
+	
+	
+
